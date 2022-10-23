@@ -16,6 +16,7 @@
 /build
 
 # misc
+.vscode
 .DS_Store
 *.pem
 
@@ -70,4 +71,3 @@ lerna-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
->>>>>>> 22ac9b3 (Initial commit from Create Next App)
