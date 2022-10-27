@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 module.exports = {
   reactStrictMode: true,
 }
-=======
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -10,4 +8,3 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
->>>>>>> 22ac9b3 (Initial commit from Create Next App)
